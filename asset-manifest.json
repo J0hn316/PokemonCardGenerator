@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PokemonCardGenerator/static/css/main.9aef6b07.css",
+    "main.js": "/PokemonCardGenerator/static/js/main.f9c05f44.js",
+    "static/media/PokemonCards2.png": "/PokemonCardGenerator/static/media/PokemonCards2.287e588a594c345b23c3.png",
+    "static/media/PokemonCards1.png": "/PokemonCardGenerator/static/media/PokemonCards1.2336da8b24a80e7a20cd.png",
+    "static/media/PokemonCards.png": "/PokemonCardGenerator/static/media/PokemonCards.46ae89214d1479ba3082.png",
+    "index.html": "/PokemonCardGenerator/index.html",
+    "main.9aef6b07.css.map": "/PokemonCardGenerator/static/css/main.9aef6b07.css.map",
+    "main.f9c05f44.js.map": "/PokemonCardGenerator/static/js/main.f9c05f44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9aef6b07.css",
+    "static/js/main.f9c05f44.js"
+  ]
+}
