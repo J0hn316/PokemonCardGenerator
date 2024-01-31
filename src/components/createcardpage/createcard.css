@@ -1,0 +1,23 @@
+.CCBG {
+  height: 88%;
+  width: 100%;
+  z-index: -1;
+  position: absolute;
+}
+
+.CCBG img {
+  position: absolute;
+  object-fit: fill;
+  width: 100%;
+  height: 100%;
+}
+
+.CreateCard h1 {
+  color: white;
+  text-align: center;
+}
+
+.CreateCard form {
+  display: flex;
+  justify-content: center;
+}
