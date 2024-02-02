@@ -1,8 +1,8 @@
 // All of our endpoints
-import axios from "axios";
+import axios from 'axios';
 
-// const baseURL = "http://localhost:3001/cards/";
-const baseURL = "https://backend1-htk8.onrender.com/cards/";
+// const baseURL = 'http://localhost:3001/cards/';
+const baseURL = 'https://backend1-htk8.onrender.com/cards/';
 
 export function getCards() {
   const URL = baseURL;
